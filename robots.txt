@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://hiroya00.github.io/Portfolio/sitemap.xml
