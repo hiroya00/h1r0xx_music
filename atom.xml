@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://hiroya00.github.io/Portfolio/atom.xml" rel="self" type="application/atom+xml" /><link href="https://hiroya00.github.io/Portfolio/" rel="alternate" type="text/html" /><updated>2022-01-22T08:35:30+09:00</updated><id>https://hiroya00.github.io/Portfolio/atom.xml</id><title type="html">HIROYA ONO</title><subtitle>This is a description of my awesome site.</subtitle><entry><title type="html">君想う - EP out now!!</title><link href="https://hiroya00.github.io/Portfolio/news/EP-Release-KImi-Omou/" rel="alternate" type="text/html" title="君想う - EP out now!!" /><published>2022-01-21T00:00:00+09:00</published><updated>2022-01-21T00:00:00+09:00</updated><id>https://hiroya00.github.io/Portfolio/news/EP-Release-KImi-Omou</id><content type="html" xml:base="https://hiroya00.github.io/Portfolio/news/EP-Release-KImi-Omou/">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://hiroya00.github.io/Portfolio/atom.xml" rel="self" type="application/atom+xml" /><link href="https://hiroya00.github.io/Portfolio/" rel="alternate" type="text/html" /><updated>2022-01-22T08:41:04+09:00</updated><id>https://hiroya00.github.io/Portfolio/atom.xml</id><title type="html">HIROYA ONO</title><subtitle>This is a description of my awesome site.</subtitle><entry><title type="html">君想う - EP out now!!</title><link href="https://hiroya00.github.io/Portfolio/news/EP-Release-KImi-Omou/" rel="alternate" type="text/html" title="君想う - EP out now!!" /><published>2022-01-21T00:00:00+09:00</published><updated>2022-01-21T00:00:00+09:00</updated><id>https://hiroya00.github.io/Portfolio/news/EP-Release-KImi-Omou</id><content type="html" xml:base="https://hiroya00.github.io/Portfolio/news/EP-Release-KImi-Omou/">&lt;p&gt;
+&lt;img src=&quot;https://hiroya00.github.io/Portfolio/images/Artwork-Kimi-Omou.jpg&quot; alt=&quot;Artwork-Kimi-Omou&quot; width=&quot;400&quot; height=&quot;400&quot; /&gt;
+&lt;/p&gt;
+&lt;p&gt;New EP, “君想う” is now available on Spotify, Apple Music, and more.
+&lt;br /&gt;&lt;/p&gt;
+&lt;style&gt;
 #Link{
     color: blue;
     text-decoration-color: blue;
@@ -6,19 +11,14 @@
 }
 &lt;/style&gt;
 
-&lt;p&gt;
-&lt;img src=&quot;https://hiroya00.github.io/Portfolio/images/Artwork-Kimi-Omou.jpg&quot; alt=&quot;Artwork-Kimi-Omou&quot; width=&quot;400&quot; height=&quot;400&quot; /&gt;
-&lt;/p&gt;
-&lt;p&gt;New EP, “君想う” is now available on Spotify, Apple Music, and more.
-&lt;br /&gt;
-&lt;a href=&quot;https://music.apple.com/jp/album/%E5%90%9B%E6%83%B3%E3%81%86-ep/1604367958?l=en&amp;amp;ls=1&amp;amp;app=music&quot; id=&quot;Link&quot;&gt;Apple Music&lt;/a&gt;
-&lt;a href=&quot;https://open.spotify.com/album/5SwMJU9GULMuseupJaKtlz?si=6SzWVY44QM-Jqk7CiNdmxg&quot; id=&quot;Link&quot;&gt;Spotify&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E5%90%9B%E6%83%B3%E3%81%86-ep/1604367958?l=en&amp;amp;ls=1&amp;amp;app=music&quot; id=&quot;Link&quot;&gt;[Apple Music]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://open.spotify.com/album/5SwMJU9GULMuseupJaKtlz?si=6SzWVY44QM-Jqk7CiNdmxg&quot; id=&quot;Link&quot;&gt;[Spotify]&lt;/a&gt;&lt;/p&gt;
 &lt;p1&gt;
 
 Music: h1R0xx
 Artwork Photo: Unsplash
 &lt;/p1&gt;
-&lt;iframe src=&quot;https://open.spotify.com/embed/album/5SwMJU9GULMuseupJaKtlz?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;380&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="News" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://hiroya00.github.io/Portfolio/%7B%22teaser%22=%3E%22Artwork-Kimi-Omou.jpg%22%7D" /><media:content medium="image" url="https://hiroya00.github.io/Portfolio/%7B%22teaser%22=%3E%22Artwork-Kimi-Omou.jpg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">End of the Summer - Single out now!!</title><link href="https://hiroya00.github.io/Portfolio/news/Single-Released-End-of-the-Summer/" rel="alternate" type="text/html" title="End of the Summer - Single out now!!" /><published>2021-12-13T00:00:00+09:00</published><updated>2021-12-13T00:00:00+09:00</updated><id>https://hiroya00.github.io/Portfolio/news/Single-Released-End-of-the-Summer</id><content type="html" xml:base="https://hiroya00.github.io/Portfolio/news/Single-Released-End-of-the-Summer/">&lt;p&gt;
+&lt;iframe src=&quot;https://open.spotify.com/embed/album/5SwMJU9GULMuseupJaKtlz?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;380&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="News" /><summary type="html">New EP, “君想う” is now available on Spotify, Apple Music, and more. [Apple Music] [Spotify]</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://hiroya00.github.io/Portfolio/%7B%22teaser%22=%3E%22Artwork-Kimi-Omou.jpg%22%7D" /><media:content medium="image" url="https://hiroya00.github.io/Portfolio/%7B%22teaser%22=%3E%22Artwork-Kimi-Omou.jpg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">End of the Summer - Single out now!!</title><link href="https://hiroya00.github.io/Portfolio/news/Single-Released-End-of-the-Summer/" rel="alternate" type="text/html" title="End of the Summer - Single out now!!" /><published>2021-12-13T00:00:00+09:00</published><updated>2021-12-13T00:00:00+09:00</updated><id>https://hiroya00.github.io/Portfolio/news/Single-Released-End-of-the-Summer</id><content type="html" xml:base="https://hiroya00.github.io/Portfolio/news/Single-Released-End-of-the-Summer/">&lt;p&gt;
 &lt;img src=&quot;https://hiroya00.github.io/Portfolio/images/Artwork-End-of-the-Summer.jpg&quot; alt=&quot;Artwork-End-of-the-Summer&quot; width=&quot;400&quot; height=&quot;400&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;New single, “End of the Summer” is now available on SoundCloud.&lt;/p&gt;
