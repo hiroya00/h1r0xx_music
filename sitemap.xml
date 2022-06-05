@@ -2,15 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://hiroya00.github.io/Portfolio/works-music-with-haiku/Live-Performance-Videos/</loc>
-<lastmod>2020-12-12T00:00:00+09:00</lastmod>
+<lastmod>2020-08-12T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>https://hiroya00.github.io/Portfolio/works-music-with-haiku/TR-Beats/</loc>
+<lastmod>2020-10-11T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>https://hiroya00.github.io/Portfolio/works-music-with-haiku/Type-Beats/</loc>
+<lastmod>2020-11-05T00:00:00+09:00</lastmod>
 </url>
 <url>
 <loc>https://hiroya00.github.io/Portfolio/works-music-with-haiku/Remixes/</loc>
-<lastmod>2020-12-12T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>https://hiroya00.github.io/Portfolio/works-music-with-haiku/Soundtracks/</loc>
-<lastmod>2020-12-12T00:00:00+09:00</lastmod>
+<lastmod>2020-11-12T00:00:00+09:00</lastmod>
 </url>
 <url>
 <loc>https://hiroya00.github.io/Portfolio/works-music/Live-Performance-Videos/</loc>
@@ -25,7 +29,7 @@
 <lastmod>2020-12-12T00:00:00+09:00</lastmod>
 </url>
 <url>
-<loc>https://hiroya00.github.io/Portfolio/works-music-with-haiku/TR-Beats/</loc>
+<loc>https://hiroya00.github.io/Portfolio/works-music-with-haiku/Soundtracks/</loc>
 <lastmod>2020-12-13T00:00:00+09:00</lastmod>
 </url>
 <url>
@@ -147,10 +151,6 @@
 <url>
 <loc>https://hiroya00.github.io/Portfolio/works-music/Rolling-at-Night/</loc>
 <lastmod>2021-03-01T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>https://hiroya00.github.io/Portfolio/works-music-with-haiku/Type-Beats/</loc>
-<lastmod>2021-03-05T00:00:00+09:00</lastmod>
 </url>
 <url>
 <loc>https://hiroya00.github.io/Portfolio/works-music/Type-Beats/</loc>
