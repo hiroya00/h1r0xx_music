@@ -8,8 +8,8 @@ h4.about {
   padding-left:10px;
 }
 p1.about {
-  display: inline-block;
-  vertical-align: top;
+  display: flex;
+  flex-direction: column;
 }
 
 h5.about {
